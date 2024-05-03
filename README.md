@@ -10,7 +10,8 @@ Beginner developers may find in this code an example of usage of:
 - functional state update
 - short-circuit evaluation
 
-  That's all, have a good day 😉
+
+That's all, have a good day 😉
 
 # A little help for beginners:
 
