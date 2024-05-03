@@ -22,8 +22,8 @@ const Board = () => {
 
   const winner = checkWinner(squares);
 
-  console.log("winner :" + winner);
-  console.log("count :" + movesCount);
+  /*console.log("winner :" + winner);
+  console.log("count :" + movesCount);*/
 
   if (movesCount === 9 && winner === null) {
     statusGame = "DRAW";
