@@ -1,6 +1,5 @@
 #### TRIS APP REACT
 
-- TRIS APP REACT
   Hi 🖐️, Tris App React ("Tris" is the Italian name for the game Tic Tac Toe.)
   Beginner developers may find in this code an example of usage of:
 
