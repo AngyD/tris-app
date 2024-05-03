@@ -9,6 +9,7 @@ Beginner developers may find in this code an example of usage of:
 - template expression
 - functional state update
 - short-circuit evaluation
+- prototypes
 
 
 That's all, have a good day 😉
